@@ -1,1 +1,1 @@
-# screenshot
+Aspiring Computer Science Engineering student passionate about web development, Python programming, and data analysis. Skilled in building interactive user interfaces and solving real-world problems through innovative solutions. Eager to learn and grow in a dynamic tech environment.
